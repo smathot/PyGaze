@@ -19,7 +19,7 @@
 #	You should have received a copy of the GNU General Public License
 #	along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-version = u'0.5.0'
+version = u'0.5.0~opensesame3'
 
 import os
 
